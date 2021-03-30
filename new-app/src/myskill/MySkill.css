@@ -1,0 +1,18 @@
+.skill-logo {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+
+.skill-logo img {
+    width: 200px;
+    height: auto;
+    padding-right: 200px;
+}
+
+.main-div{
+    background-color: #ffe066;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.main-sample button{
+    background-color: aquamarine;
+    color: rgb(255, 0, 43);
+    padding: 5px;
+    font-weight: 900;
+}
+.main-sample {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-sample img {
+    margin-top: 100px;
+    width: 200px;
+    height: auto;
+}
